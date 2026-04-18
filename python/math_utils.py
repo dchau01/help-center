@@ -1,7 +1,7 @@
 # math_utils.py - Statistical utility functions
 
 def mean(numbers):
-return sum(numbers) / len(numbers)
+    return sum(numbers) / len(numbers)
 
 def maximum(numbers): return max(numbers)
 
